@@ -10,4 +10,9 @@ In summary, merge preserves branch history and is easier to manage, while rebase
 
 What is a remote repository?
 
+A remote repository is a version control repository that is hosted on a server and accessed over a network by developers and collaborators. 
+This repository can be located on a cloud-based platform such as GitHub, GitLab, or Bitbucket, or on a private server.
+Developers can clone or download the contents of the remote repository to their local machine, make changes to the code, 
+and then push those changes back to the remote repository for others to access and review.
+
 
